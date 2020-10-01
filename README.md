@@ -4,4 +4,4 @@
 
 # The three status can also be updated using a secure API for real time usage metrics. 
 
-# The application has the ability to also add any ventilator or delete ventilator to a specific hospital and search ventilators which are available ,occupied or in-maintenance.
+# The application has the ability to also add any ventilator or delete ventilator to a specific hospital and search ventilators which are available.
